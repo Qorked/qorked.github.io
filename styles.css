@@ -1,14 +1,15 @@
 /* Qorked Portfolio — Game dev aesthetic */
 :root {
-  --bg: #0f0f12;
-  --bg-card: #1a1a20;
-  --bg-card-hover: #22222a;
+  --bg: #0d0c12;
+  --bg-card: #16141f;
+  --bg-card-hover: #1e1c2a;
   --text: #e8e6e3;
-  --text-muted: #9a9792;
-  --accent: #ff6b35;
-  --accent-dim: #e85a28;
-  --accent-glow: rgba(255, 107, 53, 0.25);
-  --border: #2a2a32;
+  --text-muted: #a39fb5;
+  --accent: #6A5ACD;
+  --accent-dim: #5a4abd;
+  --accent-glow: rgba(106, 90, 205, 0.3);
+  --accent-soft: #8b7fd8;
+  --border: #2a2638;
   --radius: 12px;
 }
 
